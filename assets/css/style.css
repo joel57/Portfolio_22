@@ -70,3 +70,65 @@ footer div {
 footer a {
     color:#022851;
 }
+
+section{
+    padding: 60px;
+}
+
+/*Hero style start*/
+.hero{
+    background-image: url(../images/me.jpeg);
+    background-size: cover;
+    height: 650px;
+    position: relative;
+   
+}
+/*hero style ends*/
+
+
+/*hero form start*/
+
+.hero-form{
+    
+    background-color: #ffBF00;
+    border-color: #022851;
+    border-style: solid;
+    border-width: 2px;
+    padding: 25px;
+    width: 250px;
+    position: absolute;
+    bottom: 150px;
+    right: 50px;
+}
+
+.hero--form h3{
+    font-size: 24px;
+    margin: 0;
+}
+
+.hero-form p{
+    margin: 5px 0 15px 0;
+}
+
+.form-input{
+    border: 1px solid #022851;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16px;
+    color: #022851;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form lable{
+    margin: 0 5px;
+}
+
+.hero-form button {
+    color:#ffBF00;
+    background-color:#022851;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
