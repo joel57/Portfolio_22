@@ -83,6 +83,13 @@ section{
     position: relative;
    
 }
+
+.hero_about{
+    background-image: url(../images/family.jpeg);
+    background-size:contain;
+    Height: 600px;
+    position: relative;
+}
 /*hero style ends*/
 
 
@@ -132,3 +139,20 @@ section{
     font-size: 16px;
 }
 
+.section-title {
+    font-size: 55px;
+    color:#022851;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+
+}
+
+.primary-border{
+    border-color:#ffBF00;
+}
+
+.secondary-border {
+    border-color: #022851;
+}
