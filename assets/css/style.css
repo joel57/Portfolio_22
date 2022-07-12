@@ -86,7 +86,15 @@ section{
 
 .hero_about{
     background-image: url(../images/family.jpeg);
-    background-size:contain;
+    background-size: contain;
+    Height: 600px;
+    position: relative;
+}
+
+.hero_skills{
+    background-image: url(../images/skills.jpeg);
+    height: 600px;
+    background-size: cover;
     Height: 600px;
     position: relative;
 }
@@ -155,4 +163,23 @@ section{
 
 .secondary-border {
     border-color: #022851;
+}
+
+.body_navs {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background:#022851;
+    color:#ffBF00;
+    overflow: auto;
+}
+
+.body_navs img{
+    width: 35%;
+    float: left;
+}
+
+.body-bio {
+    padding: 35px;
+    float: right;
+    width: 65%;
 }
