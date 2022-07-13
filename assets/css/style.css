@@ -165,6 +165,10 @@ section{
     border-color: #022851;
 }
 
+.about2 {
+    text-align: center;
+}
+
 .body_navs {
     width: 900px;
     margin: 0 auto 30px auto;
