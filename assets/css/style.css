@@ -165,7 +165,7 @@ section{
     border-color: #022851;
 }
 
-.about2 {
+.box_heads {
     text-align: center;
 }
 
@@ -177,9 +177,22 @@ section{
     overflow: auto;
 }
 
+.body_navs2{
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background:#022851;
+    color:#ffBF00;
+    overflow: auto;
+}
+
 .body_navs img{
     width: 35%;
     float: left;
+}
+
+.body_navs2 img{
+    width: 35%;
+    float: right;
 }
 
 .body-bio {
