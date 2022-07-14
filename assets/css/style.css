@@ -75,7 +75,7 @@ section{
     padding: 60px;
 }
 
-/*Hero style start*/
+/*Hero classes with linked images and style */
 .hero{
     background-image: url(../images/me.jpeg);
     background-size: cover;
@@ -117,7 +117,7 @@ section{
 /*hero style ends*/
 
 
-/*hero form start*/
+/*hero form CTA start*/
 
 .hero-form{
     
@@ -163,6 +163,9 @@ section{
     font-size: 16px;
 }
 
+/*Hero area ends*/
+
+
 .section-title {
     font-size: 55px;
     color:#022851;
@@ -193,6 +196,7 @@ section{
     overflow: auto;
 }
 
+/*This is the mouse expand section for the class */
 .body_navs:hover {
     width: 1000px;
     
@@ -205,6 +209,8 @@ section{
     color:#ffBF00;
     overflow: auto;
 }
+
+/*This is the mouse expand section for the class */
 
 .body_navs2:hover {
     width: 1000px;
