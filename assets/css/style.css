@@ -98,6 +98,22 @@ section{
     Height: 600px;
     position: relative;
 }
+
+.hero_projects{
+    background-image: url(../images/projects.jpeg);
+    height: 600px;
+    background-size: cover;
+    height: 600px;
+    position: relative;
+}
+
+.hero_contact{
+    background-image: url(../images/contact.jpeg);
+    height: 600px;
+    background-size: cover;
+    height: 600px;
+    position: relative;
+}
 /*hero style ends*/
 
 
