@@ -177,12 +177,21 @@ section{
     overflow: auto;
 }
 
+.body_navs:hover {
+    width: 1000px;
+    
+}
+
 .body_navs2{
     width: 900px;
     margin: 0 auto 30px auto;
     background:#022851;
     color:#ffBF00;
     overflow: auto;
+}
+
+.body_navs2:hover {
+    width: 1000px;
 }
 
 .body_navs img{
